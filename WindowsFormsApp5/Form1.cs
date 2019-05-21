@@ -241,19 +241,16 @@ namespace WindowsFormsApp5
                 {
                     tempcnt = 0;
                     temp = students[l].FirstName;
-                    //Lab4Out.Text += students[l].FirstName + "\n";
                      
                      for  (int k = l + 1; k < 12; k++)
                      { 
                           if (students[l].FirstName == students[k].FirstName & Convert.ToString(students[l].Gender) == "М")
                           {
                               tempcnt++;
-                              // string CmnFrstNm = students[l].FirstName;
                           }
                      }
                     if (tempcnt > 0)
                     {
-                        //Lab4Out.Text += students[l].FirstName;
                         CmnFrstNm = temp;
                         cnt = tempcnt;
                     }
