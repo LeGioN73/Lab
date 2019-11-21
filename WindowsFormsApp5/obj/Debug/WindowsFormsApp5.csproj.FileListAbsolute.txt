@@ -12,3 +12,16 @@ C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\agq\ApP
 C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\agq\ApProgLab.resources.dll
 C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\ApProgLab.exe
 C:\Users\Legion\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\ApProgLab.pdb
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\bin\Debug\ApProgLab.exe.config
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\bin\Debug\ApProgLab.exe
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\bin\Debug\ApProgLab.pdb
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\bin\Debug\agq\ApProgLab.resources.dll
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\ApProgLab.Calc.resources
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\ApProgLab.Properties.Resources.resources
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\ApProgLab.Calc.agq.resources
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\agq\ApProgLab.resources.dll
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\ApProgLab.exe
+C:\Users\Legion\Desktop\Lab-master\WindowsFormsApp5\obj\Debug\ApProgLab.pdb
